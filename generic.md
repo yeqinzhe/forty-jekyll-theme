@@ -1,13 +1,24 @@
 ---
 layout: post
-title: 全部
+title: 压缩软件
 description: Lorem ipsum dolor est
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+国产软件
+多是商业公司开发的为了赚钱广告多，还有部分流氓软件（快压）臭不要脸在7z文件后面加乱码成为自己专属格式
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
+Bandizip
+Bandizip产于南棒，界面漂亮，但6.27后广告多还分免费版专业版和企业版。这只是他的营销策略，离不开流氓本质。
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+WinRAR
+WinRAR风靡全球，是老牌的付费压缩软件，压缩率高于zip，低于7z。到了中国有了特供版本，所有使用简体中文版的个人用户推出完全免费的“非商业个人版”（即“上海代理商定制版”），该版本无论用户是否已付费注册，都会强制弹出广告展示窗口。它是唯一可以压缩rar的软件。界面老，但是可以加皮肤。
+
+个人建议：如果要使用，就用繁体版或其他文字版。
+
+7zip
+7zip是一款开源软件有作者自己的压缩算法LZMA，压缩率高于rar等，解压缩速度也是比WinRAR快。界面习惯就好，1mb的软件要什么漂亮的界面。
+
+总结
+以7zip为主，WinRAR为辅。
