@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 我推荐的压缩软件
-description: Lorem ipsum dolor est
+description: 天天向上对压缩软件的看法
 image: assets/images/pic11.jpg
 #nav-menu: true
 ---
