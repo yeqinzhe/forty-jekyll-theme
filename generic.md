@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 压缩软件
+title: 我推荐的压缩软件
 description: Lorem ipsum dolor est
 image: assets/images/pic11.jpg
-nav-menu: true
+#nav-menu: true
 ---
 
 国产软件
