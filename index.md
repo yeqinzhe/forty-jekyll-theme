@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Home
-landing-title: 'Hi, my name is Forty'
+title: 主页
+landing-title: '天天向上的博客'
 description: null
 image: null
 author: null

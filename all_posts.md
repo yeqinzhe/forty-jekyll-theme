@@ -1,6 +1,6 @@
 ---
 layout: allposts
-title: All posts
+title: 所有文章
 landing-title: 'All posts'
 nav-menu: true
 description: null
